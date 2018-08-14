@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f82ffae-dee7-4cd8-bcc9-41f6217bbd10" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web-frontEnd/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web-frontEnd/media/video.html" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.MD" afterPath="$PROJECT_DIR$/SUMMARY.MD" />
+      <change beforePath="$PROJECT_DIR$/web-frontEnd/media/video.html" afterPath="$PROJECT_DIR$/web-frontEnd/media/video.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="video.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="video.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-frontEnd/media/video.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="618">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -40,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SUMMARY.MD" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SUMMARY.MD" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -98,6 +94,7 @@
         <option value="$PROJECT_DIR$/web-frontEnd/video.html" />
         <option value="$PROJECT_DIR$/SUMMARY.MD" />
         <option value="$PROJECT_DIR$/web-frontEnd/README.md" />
+        <option value="$PROJECT_DIR$/web-frontEnd/media/video.html" />
       </list>
     </option>
   </component>
@@ -134,6 +131,17 @@
             <path>
               <item name="xwzFullStackLibrary" type="b2602c69:ProjectViewProjectNode" />
               <item name="xwzFullStackLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xwzFullStackLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xwzFullStackLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="web-frontEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xwzFullStackLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xwzFullStackLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="web-frontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534217342229</updated>
-      <workItem from="1534217352174" duration="1265000" />
+      <workItem from="1534217352174" duration="1408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1265000" />
+    <option name="totallyTimeSpent" value="1408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -338,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-frontEnd/media/video.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-frontEnd/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -365,6 +365,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-frontEnd/media/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

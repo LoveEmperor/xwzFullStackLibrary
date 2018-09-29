@@ -24,4 +24,4 @@
 * [linux防火墙](content/iptables.md)
 * [安装node](content/install-node.md)
   
-[返回首页](/readme.md)
+[返回首页](../readme.md)

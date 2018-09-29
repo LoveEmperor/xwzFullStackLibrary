@@ -3,4 +3,4 @@
 
 ##基本的概念
 # liquibase怎么用
-## [springboot 集成liquibase](./content/springboot_liquibase.md)
+## [springboot 集成liquibase](content/springbootquikstart.md)

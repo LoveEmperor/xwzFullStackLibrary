@@ -1,5 +1,7 @@
 # The-roadside-scenery
 
+#### 目录必须只有两层，全部展示出来；不然淹没在路径中，找不到，就失去了笔记价值，还不如去搜索与本地保存
+
 * [介绍](readme.md)
 * [工具软件](tools/tools.md)
   * [Nodejs](tools/Nodejs/readme.md)

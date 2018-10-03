@@ -13,4 +13,4 @@
 * [spring boot banner](springboot_banner.md)
 * [spring boot整合swagger](springboot-swagger.md)
 
-[返回](/readme.md)
+[返回](../readme.md)
